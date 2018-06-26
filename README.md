@@ -8,7 +8,7 @@ local host server to view the application in the browser.
 ## Objectives
 
 1. Review gems and how to keep them updated using `bundle install`
-2. Describe the purpose of the application controller and `app.rb` in Sinatra
+2. Describe he purpose of the application controller and `app.rb` in Sinatra
 3. Run a Sinatra app by entering `rackup app/app.rb` in your terminal
 
 ## Basic Sinatra App
@@ -16,7 +16,7 @@ local host server to view the application in the browser.
 ### Sinatra Gem
 
 This is not a lab, as there's nothing for you to submit. But to follow along
-with the lesson, make sure you fork and clone this repository before beginning. 
+with the lesson, make sure you fork and clone this repository before beginning.
 
 It's important to note that Sinatra is just a gem. It's a library of code that
 developers wrote to allow us to build light-weight web applications quickly. If
